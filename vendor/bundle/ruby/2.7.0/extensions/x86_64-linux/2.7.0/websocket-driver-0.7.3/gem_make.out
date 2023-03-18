@@ -1,0 +1,15 @@
+current directory: /home/sophia/Development/CODE/phase-4/phase-4-mini-project-crud/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+/home/sophia/.rbenv/versions/2.7.4/bin/ruby -I /home/sophia/.rbenv/versions/2.7.4/lib/ruby/site_ruby/2.7.0 extconf.rb
+creating Makefile
+
+current directory: /home/sophia/Development/CODE/phase-4/phase-4-mini-project-crud/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230318-40907-3g0yzc sitelibdir\=./.gem.20230318-40907-3g0yzc clean
+
+current directory: /home/sophia/Development/CODE/phase-4/phase-4-mini-project-crud/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230318-40907-3g0yzc sitelibdir\=./.gem.20230318-40907-3g0yzc
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/sophia/Development/CODE/phase-4/phase-4-mini-project-crud/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230318-40907-3g0yzc sitelibdir\=./.gem.20230318-40907-3g0yzc install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20230318-40907-3g0yzc
